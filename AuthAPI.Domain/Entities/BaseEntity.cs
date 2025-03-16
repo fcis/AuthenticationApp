@@ -2,7 +2,7 @@
 {
     /// <summary>
     /// Base class for all entities in the domain model
-    /// Provides common properties for all entities
+    /// Provides common properties for (all entities)
     /// </summary>
     public abstract class BaseEntity
     {

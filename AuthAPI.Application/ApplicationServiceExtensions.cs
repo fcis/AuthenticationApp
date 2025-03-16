@@ -6,7 +6,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 
 namespace AuthAPI.Application
-{
+{  
     /// <summary>
     /// Extension methods for configuring application layer services
     /// </summary>

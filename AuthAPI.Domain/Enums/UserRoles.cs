@@ -13,7 +13,7 @@
         /// <summary>
         /// Standard user role with basic access
         /// </summary>
-        public const string User = "User";
+        public const string User = "User"; 
 
         /// <summary>
         /// Manager role with elevated access
